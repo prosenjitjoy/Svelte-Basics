@@ -9,7 +9,7 @@
 
 <div class="max-w-lg">
   <h1 class="mb-3 text-xl font-medium text-fuchsia-800">
-    Hello {name}, my age is {age}!
+    Hello {name}, age is {age}!
   </h1>
   <button
     on:click={increamentAge}

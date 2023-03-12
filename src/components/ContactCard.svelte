@@ -1,5 +1,5 @@
 <script>
-  export let userName = "Joy";
+  export let userName = "";
   export let jobTitle = "";
   export let description = "";
   export let imageSource = "";
